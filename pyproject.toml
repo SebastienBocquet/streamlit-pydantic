@@ -3,11 +3,11 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "streamlit-pydantic"
+name = "streamlit-pydantic-sebastienbocquet"
 dynamic = ["version"]
 description = "Auto-generate Streamlit UI from Pydantic Models & Dataclasses."
 readme = "README.md"
-authors = [{ name = "Lukas Masuch", email = "lukas.masuch@gmail.com" }]
+authors = [{ name = "Sebastien Bocquet", email = "sbocquet@gmail.com" }]
 requires-python = ">= 3.8"
 dependencies = [
     "streamlit>=1.30.0",
