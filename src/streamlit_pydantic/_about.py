@@ -2,4 +2,4 @@
 
 from importlib.metadata import version
 
-__version__ = version("streamlit-pydantic")
+__version__ = version("streamlit-pydantic-sebastienbocquet")
